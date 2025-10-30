@@ -8,4 +8,13 @@ The goal is to understand how machines learn patterns from data and apply that k
 
 # Features
 
-Implemented using Python, TensorFlow / PyTorch / Keras
+Implemented using Python, TensorFlow / PyTorch / Keras.
+
+# Key Topics Covered
+🔹 Foundations of Deep Learning
+
+DL(1)_perceptron_trick.ipynb — Understanding perceptrons and linear separability
+
+backpropagation_classification.ipynb — Implementing backpropagation for classification tasks
+
+backpropagation_regression.ipynb — Applying backpropagation in regression problems
