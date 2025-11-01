@@ -18,3 +18,9 @@ DL(1)_perceptron_trick.ipynb — Understanding perceptrons and linear separabili
 backpropagation_classification.ipynb — Implementing backpropagation for classification tasks
 
 backpropagation_regression.ipynb — Applying backpropagation in regression problems
+
+
+🔹 Network Initialization & Optimization
+
+Zero_initialization.ipynb — Effect of zero initialization
+
