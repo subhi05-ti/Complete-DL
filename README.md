@@ -22,5 +22,8 @@ backpropagation_regression.ipynb — Applying backpropagation in regression prob
 
 🔹 Network Initialization & Optimization
 
-Zero_initialization.ipynb — Effect of zero initialization
+Zero_initialization.ipynb - Effect of zero initialization
+
+weights_init_using_Xavier_Normal.ipynb - Xavier initialization
+
 
