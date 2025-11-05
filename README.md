@@ -23,9 +23,9 @@ backpropagation_regression.ipynb — Applying backpropagation in regression prob
 🔹 Network Initialization & Optimization
 
 Zero_initialization.ipynb - Effect of zero initialization
-
 weights_init_using_Xavier_Normal.ipynb - Xavier initialization
 weights_init_using_he_uniform.ipynb — He initialization
+Batch_vs_Stochastic_GD.ipynb — Comparing batch and stochastic gradient descent
 
 
 
