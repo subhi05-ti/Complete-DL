@@ -30,9 +30,12 @@ Exponentialy_weighted_Moving_Average.ipynb — Smoothing gradients for better op
 
 
 🔹 Regularization & Training Stability
-Dropout_notebook.ipynb — Applying dropout to prevent overfitting
+Dropout_notebook.ipynb — Applying dropout to prevent overfitting.
 
-Batch_Normalization.ipynb — Stabilizing training using batch normalization
+Batch_Normalization.ipynb — Stabilizing training using batch normalization.
+
+Vanishing_gradient.ipynb — Understanding and solving the vanishing gradient problem.
+
 
 
 
