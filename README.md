@@ -37,6 +37,10 @@ Batch_Normalization.ipynb — Stabilizing training using batch normalization.
 Vanishing_gradient.ipynb — Understanding and solving the vanishing gradient problem.
 
 
+🔹 Model Building with Keras
+
+DL(3)_Building_ANN_using_keras.ipynb — Building Artificial Neural Networks with Keras.
+
 
 
 
