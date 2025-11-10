@@ -41,6 +41,9 @@ Vanishing_gradient.ipynb — Understanding and solving the vanishing gradient pr
 
 DL(3)_Building_ANN_using_keras.ipynb — Building Artificial Neural Networks with Keras.
 
+Keras_Hyperparameter_Tuning(DL).ipynb — Experimenting with hyperparameter tuning.
+
+
 
 
 
