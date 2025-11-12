@@ -50,6 +50,10 @@ DL(4)_Graduate_Admission_Prediction_using_ANN.ipynb — Predicting graduate admi
 
 Language: Python 🐍
 
+Frameworks: TensorFlow, Keras, NumPy, Matplotlib
+
+Environment: Google Colab
+
 
 
 
