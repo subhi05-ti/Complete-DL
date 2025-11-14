@@ -58,6 +58,7 @@ Environment: Google Colab
 
 Step-by-step implementations of DL concepts.
 
+Comparison of optimization and initialization strategies.
 
 
 
