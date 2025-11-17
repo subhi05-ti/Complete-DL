@@ -60,5 +60,8 @@ Step-by-step implementations of DL concepts.
 
 Comparison of optimization and initialization strategies.
 
+Real-world dataset experiments (like graduate admission prediction)
+
+Well-commented, educational notebooks.
 
 
